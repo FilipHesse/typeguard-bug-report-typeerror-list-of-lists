@@ -1,0 +1,5 @@
+[project]
+name = "mypkg"
+version = "0.0.0"
+description = "mypkg"
+authors = [{ name = "Me", email = "me@mycompany.com" }]
